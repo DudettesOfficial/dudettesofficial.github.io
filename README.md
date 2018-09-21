@@ -1,2 +1,2 @@
 # dudettesofficial.github.io
-wird eh geändert
+Just a running gag amongst friends...
