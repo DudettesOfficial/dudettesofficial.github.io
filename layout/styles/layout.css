@@ -274,7 +274,7 @@ td{border-width:0 1px;}
 
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
-body{color:#474747; background-color:#FFFFFF;}
+body{color:#474747; background-color:#FFFFFF;}  
 a{color:#7102CF;}
 #a{color:#7102CF !important; text-decoration: underline #dcd0e5 !important}
 hr, .borderedbox{border-color:#D7D7D7;}
