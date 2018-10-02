@@ -1,0 +1,81 @@
+p>a, .a, #a {
+  color: #ffffff;
+  text-decoration:underline;
+  }
+
+#a-dark {
+  color: #000000;
+  text-decoration:underline;
+}
+
+p {
+  text-align: justify;
+}
+
+*{
+  color: #ffffff;
+}
+
+.index {
+  padding: 10rem !important;
+  background-color: rgb(145, 2, 257);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%
+}
+
+.bg-pink-transparent {
+  background-color: rgba(96, 0, 178, 0.7);
+}
+
+.w-33{
+  width: 30%;
+}
+
+.bg-pink {
+  background-color: rgba(96, 0, 178, 1);
+}
+
+.bg-dark-pink {
+  background-color: #161616;
+}
+
+.bg-black {
+  background-color: #000000;
+  margin: 5px;
+}
+
+.backtotop {
+  position: fixed bottom right;
+}
+
+.backtotop {
+  color: #8e8e8e;
+}
+
+section {
+  display: inline-block;
+}
+
+.first {
+  margin: .25rem;
+  margin-left: 3rem;}
+.first p {text-align: left;}
+
+.second {
+  margin: .25rem;}
+.second p {text-align: left;}
+
+
+.third {
+  margin: .25rem;
+  margin-right: 1rem;}
+.third p {text-align: left;}
+
+.equalize-height {
+  height: 18rem;
+}
+
+.equalize-height-sm {
+  height: 14rem;
+}
